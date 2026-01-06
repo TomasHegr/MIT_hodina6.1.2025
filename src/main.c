@@ -45,7 +45,6 @@ void btn_press_handler(uint32_t time)
         led_speed = 10; // LED svítí jako indikace toho, že probíhá programování
     }
 }
-
 int main(void)
 {
 
