@@ -27,4 +27,5 @@ ToDo
 
 Závěr/zhodnocení
 -----------------------
+Dobrý, nebyly nějaké větší problémy, případně vyřešeno.
 *
